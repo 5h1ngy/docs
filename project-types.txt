@@ -1,0 +1,15 @@
+Targets
+- app
+- lib
+- cli
+- api
+- docs
+
+Sub-Targets:
+- boilerplate
+
+Technology:
+- react
+- springboot
+- node
+- express
